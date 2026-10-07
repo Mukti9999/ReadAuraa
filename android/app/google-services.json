@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019662272938",
+    "project_id": "readaura-27a94",
+    "storage_bucket": "readaura-27a94.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019662272938:android:dab2d7b5675d164d70c3d3",
+        "android_client_info": {
+          "package_name": "com.readaura.readaura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_T1pKxXhtCzhGfsseHk5C7J2Zy2WWKlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,46 @@
+name: readaura
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  audioplayers: ^6.5.1
+  pdfrx: ^2.6.5
+  firebase_core: ^4.15.0
+  firebase_auth: ^6.7.0
+  cloud_firestore: ^6.10.0
+  firebase_storage: ^13.6.0
+  flutter_localizations:
+    sdk: flutter
+  material_ui: ^1.5.0
+  flutter_tts: ^4.2.5
+  syncfusion_flutter_pdf: ^35.1.37
+  text_to_speech_plus: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/reading_music/
+    - assets/books/
+    - assets/covers/
+    - assets/images/
+
+flutter_launcher_icons:
+  android: true
+  image_path: "assets/images/readaura_app_icon.png"
