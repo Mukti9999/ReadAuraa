@@ -1,6 +1,6 @@
-# readaura
+# ReadAuraa
 
-A new Flutter project.
+An intelligent book discovery and recommendation platform built with Flutter.
 
 ## Getting Started
 
